@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
 <p> 
-  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+  <img align="center" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hieHhnc2twdWVjb2V3eDNmamowejEwdXl6czJxczJvNmUwY3hxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp
+)">
 </p>
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hieHhnc2twdWVjb2V3eDNmamowejEwdXl6czJxczJvNmUwY3hxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp
+https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif
 
  <a href="https://twitter.com/dunith" target="blank"><img src="https://img.shields.io/twitter/follow/dunith?logo=twitter&style=for-the-badge" alt="dunith" /></a> 
 
