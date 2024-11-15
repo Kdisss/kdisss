@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
 <p> 
-  <img align="center" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hieHhnc2twdWVjb2V3eDNmamowejEwdXl6czJxczJvNmUwY3hxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp
-)">
+  <img align="center" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
   <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 </p>
 https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hieHhnc2twdWVjb2V3eDNmamowejEwdXl6czJxczJvNmUwY3hxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp
