@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
 <p> 
-  <img align="center" src="[https://giphy.com/embed/bGgsc5mWoryfgKBx1u](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)">
-  <iframe src="https://giphy.com/embed/QKDpE67Rc7rpjBmQPj" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-coding-glitchy-QKDpE67Rc7rpjBmQPj">via GIPHY</a></p>
+  <img align="center" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" width="270" height="480" alt="Matrix Coding GIF">
+
 </p>
 
 
