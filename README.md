@@ -7,7 +7,7 @@
 </p>
 
 
- <a href="https://x.com/NHowler76915" target="blank"><img src="https://img.shields.io/twitter/follow/dunith?logo=twitter&style=for-the-badge" alt="kalana" /></a> 
+ <a href="https://x.com/NHowler76915" target="blank"><img src="https://img.shields.io/twitter/follow/kalana?logo=twitter&style=for-the-badge" alt="kalana" /></a> 
 
 - 🔭 I’m currently working on **Fullstack software developing**
 
