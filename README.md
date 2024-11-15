@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/kalana-dissanayake-43427b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalana dissanayake" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100015008343858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalana dissanayake" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kalana_diss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dunith_8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Kalana_diss" target="blank"><img align="center" src="https://www.youtube.com/@Kalana_diss" alt="shortzya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Kalana_diss" target="blank"><img align="center" src="[https://www.youtube.com/@Kalana_diss](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
