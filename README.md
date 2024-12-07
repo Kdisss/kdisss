@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
 <p> 
-  <img align="center" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" width="270" height="480" alt="Matrix Coding GIF">
+  <img align="center" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif">
 
 </p>
 
