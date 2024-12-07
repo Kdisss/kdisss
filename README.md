@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
 <p> 
-  <img align="center" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif">
-
+  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 </p>
 
 
